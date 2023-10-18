@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wP1xXhLYu6OlgCZMcQk+LOLKL0Jx1y23ffrtuQ5LUq8qTVfdgIWX0TY5wPHfThvEQI6Spv7iHT6PIyKEBH/XnQ==",
+  "success": true,
+  "projectFilePath": "/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Contracts/MSA.Common.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/Users/khoahoang/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/khoahoang/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/khoahoang/.nuget/packages/microsoft.extensions.configuration.binder/7.0.4/microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
+    "/Users/khoahoang/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/khoahoang/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/khoahoang/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSA.Common.Contracts", "MSA.Common.Contracts\MSA.Common.Contracts.csproj", "{D5095DD0-D62C-41C2-9C6F-5A13CF1CA603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSA.Common.Mongo", "MSA.Common.Mongo\MSA.Common.Mongo.csproj", "{62583699-A474-4AC1-8CC9-0C0461AE1888}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSA.Common.PostgresMassTransit", "MSA.Common.PostgresMassTransit\MSA.Common.PostgresMassTransit.csproj", "{D9499CC2-D071-405C-B209-EE4243226291}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5095DD0-D62C-41C2-9C6F-5A13CF1CA603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5095DD0-D62C-41C2-9C6F-5A13CF1CA603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5095DD0-D62C-41C2-9C6F-5A13CF1CA603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5095DD0-D62C-41C2-9C6F-5A13CF1CA603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62583699-A474-4AC1-8CC9-0C0461AE1888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62583699-A474-4AC1-8CC9-0C0461AE1888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62583699-A474-4AC1-8CC9-0C0461AE1888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62583699-A474-4AC1-8CC9-0C0461AE1888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9499CC2-D071-405C-B209-EE4243226291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9499CC2-D071-405C-B209-EE4243226291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9499CC2-D071-405C-B209-EE4243226291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9499CC2-D071-405C-B209-EE4243226291}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

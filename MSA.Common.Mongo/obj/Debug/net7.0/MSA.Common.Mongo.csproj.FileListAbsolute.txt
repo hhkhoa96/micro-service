@@ -1,0 +1,15 @@
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/bin/Debug/net7.0/MSA.Common.Mongo.deps.json
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/bin/Debug/net7.0/MSA.Common.Mongo.dll
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/bin/Debug/net7.0/MSA.Common.Mongo.pdb
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/bin/Debug/net7.0/MSA.Common.Contracts.dll
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/bin/Debug/net7.0/MSA.Common.Contracts.pdb
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/obj/Debug/net7.0/MSA.Common.Mongo.csproj.AssemblyReference.cache
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/obj/Debug/net7.0/MSA.Common.Mongo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/obj/Debug/net7.0/MSA.Common.Mongo.AssemblyInfoInputs.cache
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/obj/Debug/net7.0/MSA.Common.Mongo.AssemblyInfo.cs
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/obj/Debug/net7.0/MSA.Common.Mongo.csproj.CoreCompileInputs.cache
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/obj/Debug/net7.0/MSA.Common.Mongo.csproj.CopyComplete
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/obj/Debug/net7.0/MSA.Common.Mongo.dll
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/obj/Debug/net7.0/refint/MSA.Common.Mongo.dll
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/obj/Debug/net7.0/MSA.Common.Mongo.pdb
+/Users/khoahoang/Desktop/projects/micro-service/MSA.Common.Mongo/obj/Debug/net7.0/ref/MSA.Common.Mongo.dll
